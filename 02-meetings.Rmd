@@ -1,0 +1,42 @@
+# Lab meetings and communication
+
+Perioidically, our whole group shall meet to discuss our ongoing work, progress, plans, logistics, etc. The content of each meeting will be arranged and communicated ahead of time. All lab members are expected to attend lab meeting if at all possible. Lab members should avoid scheduling anything during lab meeting time.
+
+## Time and place
+
+During term time, meetings take place on most Thursdays, 13:00-14:30. Location varies: see Teams calendar for details.
+
+
+## Standing agenda
+
+1. Logistics: Is anything broken? Are there scheduling conflicts/difficulties? Programs to troubleshoot?
+2. Progress report: PI will ask a selection of members for a progress report. In semester 1, these are typically to guide UG project students as they begin their projects.
+3. OSF Review: We'll check whether any milestones have been reached lately
+4. Research content (ordered by priority; we won't do all things every meeting): Lab members starting a new study will give their elevator speech and demo their program, lab members with new data will describe it for us (must have a graph!), we will discuss a relevant research paper
+
+## Upcoming dates and extra content
+
+We have a channel on Teams for announcements about interesting conferences. A subset of us are regularly involved in meetings of the Experimental Psychology Society, the European Society for Cognitive Psychology, and the Psychonomic Society.
+
+## What's in it for everyone
+
+You may wonder why we do this. One reason is that it is an efficient way for the PI to get information from everyone. The PI will see lab members on other days and times too, but it is useful to know that there is a specific, repeated occasion when we will regularly see each other. 
+
+Another reason is that it is unhealthy for researchers to struggle alone with difficulties. We prioritize trouble-shooting in lab meetings so that anyone experiencing a problem has a regular opportunity to talk about it with a supportive group of people. It is also useful for others to hear about these problems even if they are not directly affected because 1) it normalizes the fact that everyone struggles with logisitics and programming sometimes, 2) the same problem may impact you eventually, and by attending to others' concerns in lab meeting, you will at least be familiar with it. 
+
+We also need a regular moment to mark the interim successes that occur during research projects that don't merit wide attention. Finishing up pilot-testing, submitting a conference presentation, finding something interesting in an analysis are all moments that call for some celebration, but will only be interesting to like-minded geeks. 
+
+Finally, you may not yet personally see how another lab member's work relates to your's, but it does. Hearing about this work and reading papers together builds our common knowledge space and affords opportunities for generating new ideas. I hope these meetings will always be interesting. Inevitably they will sometimes be boring. But please make the effort to attend and participate. Though you may sometimes not see the immediate gain, you never know when our meetings bring some opportunity for you to improve your project or contribute to someone else's.
+
+## Project-specific meetings
+
+Sub-groups of us shall sometimes meet for specific business that doesn't involve the whole lab. For instance, many lab members are students, and students may have contact hours with the PI related to their course that non-student lab members won't attend. The personnel involved in particular projects will convene *Data Round-up Meetings*, in which we compile, anonymize, exclude ineligible participants from a data set, and securely back-up the data ahead of the analysis.  
+
+## Communication between meetings
+
+Questions are bound to arise in between these formal opportunities to meet. One way to get resolution between meetings is to consult our lab's Teams channel. Microsoft Teams is a university-supported space for group chat and organization that we use to replace personal email when possible. There is a general channel that all lab personnel should be able to access, and sub-channels specific to individual projects or topics. In Teams, you can see the previous communications, so you can check if the information you need is already documented there. If not, you can submit your query to whichever channel seems most appropriate. If you need a fast reply from a specific lab member, you can direct message them or @ them in a discussion and cause a notification to be sent to them that their opinion is required.
+
+Whenever you have a question that could be answered by one of several people, or if there are several people that probably need to know the answer, you should pose it on Teams rather than over email. Like with your email, you can tell Teams when to allow notifications to reach you so that you are not disturbed when you are not working.
+
+UGR prject students similarly have a dedicated MS Team for communicating about their project work. 
+
